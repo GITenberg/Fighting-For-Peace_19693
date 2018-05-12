@@ -1,0 +1,37 @@
+_repo: Fighting-For-Peace_19693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Van
+    - Dyke, Henry Jackson Van
+    - Dyke, Henry I. Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19693'
+  lccn: '17030303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Germany'
+tableOfContents: Fair-weather and storm signs -- Apologue -- The werwolf at large
+  -- Germania mendax -- A dialogue on peace between a householder and a burglar --
+  Stand fast, ye free! -- Pax humana.
+title: Fighting For Peace
+url: http://www.gutenberg.org/ebooks/19693
